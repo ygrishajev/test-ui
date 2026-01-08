@@ -1,4 +1,4 @@
-[![Deploy with Akash](https://img.shields.io/badge/Deploy%20with-Akash-ff424c?style=for-the-badge&logo=akash&logoColor=white)](http://localhost:3000/new-deployment?templateId=akash-network-awesome-akash-automatic-deployment-CICD-template&repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm%20run%20build&startCommand=npm%20start&installCommand=npm%20install&buildDirectory=dist&nodeVersion=21&step=editDeployment)
+[![Deploy with Akash](https://img.shields.io/badge/Deploy%20with-Akash-ff424c?style=for-the-badge&logo=akash&logoColor=white)](http://localhost:3000/new-deployment?repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm%20run%20build&startCommand=npm%20start&installCommand=npm%20install&buildDirectory=dist&nodeVersion=21&step=editDeployment)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
