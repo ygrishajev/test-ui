@@ -1,4 +1,6 @@
-[![Deploy with Akash](https://img.shields.io/badge/Deploy%20with-Akash-ff424c?style=for-the-badge&logo=akash&logoColor=white)](http://localhost:3000/new-deployment?repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm%20run%20build&startCommand=npm%20start&installCommand=npm%20install&nodeVersion=21&step=editDeployment)
+[![Deploy on Akash](https://raw.githubusercontent.com/akash-network/console/refs/heads/main/apps/deploy-web/public/images/deploy-with-akash-btn.svg)](https://console.akash.network/new-deployment?repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm+run+build&startCommand=npm+start&installCommand=npm+i)
+
+<a href="https://console.akash.network/new-deployment?repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm+run+build&startCommand=npm+start&installCommand=npm+i"><img src="https://raw.githubusercontent.com/akash-network/console/refs/heads/main/apps/deploy-web/public/images/deploy-with-akash-btn.svg" alt="Deploy on Akash"></a>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
