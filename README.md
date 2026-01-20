@@ -1,5 +1,9 @@
 [![Deploy on Akash](https://raw.githubusercontent.com/akash-network/console/refs/heads/main/apps/deploy-web/public/images/deploy-with-akash-btn.svg)](https://console.akash.network/new-deployment?repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm+run+build&startCommand=npm+start&installCommand=npm+i)
 
+[![Deploy on Akash](https://raw.githubusercontent.com/akash-network/console/928008e762dd319e2421c8b48d96a6819430fa00/apps/deploy-web/public/images/deploy-with-akash-btn.svg)](https://console.akash.network/new-deployment?repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm+run+build&startCommand=npm+start&installCommand=npm+i)
+
+
+
 <a href="https://console.akash.network/new-deployment?repoUrl=https%3A%2F%2Fgithub.com%2Fygrishajev%2Ftest-ui.git&branch=main&buildCommand=npm+run+build&startCommand=npm+start&installCommand=npm+i"><img src="https://raw.githubusercontent.com/akash-network/console/refs/heads/main/apps/deploy-web/public/images/deploy-with-akash-btn.svg" alt="Deploy on Akash"></a>
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
